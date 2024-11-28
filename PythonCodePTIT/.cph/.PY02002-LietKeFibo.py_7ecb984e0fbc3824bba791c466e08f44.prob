@@ -1,0 +1,1 @@
+{"name":"Local: PY02002-LietKeFibo","url":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY02002-LietKeFibo.py","tests":[{"id":1725001567789,"input":"1\n1 10","output":"1 1 2 3 5 8 13 21 34 55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY02002-LietKeFibo.py","group":"local","local":true}

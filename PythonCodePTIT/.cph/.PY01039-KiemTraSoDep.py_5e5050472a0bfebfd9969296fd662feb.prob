@@ -1,0 +1,1 @@
+{"name":"Local: PY01039-KiemTraSoDep","url":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY01039-KiemTraSoDep.py","tests":[{"id":1728013551203,"input":"3\n12121212\n343433\n78789989","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY01039-KiemTraSoDep.py","group":"local","local":true}

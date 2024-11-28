@@ -1,0 +1,1 @@
+{"name":"Local: DienTichTamGiac","url":"c:\\WorkSpace\\CODE\\Python\\Thuc hanh 1\\DienTichTamGiac.py","tests":[{"id":1727520446553,"input":"3\n1 1 5 1 3 3\n1 2 5 2 5 6\n1 6 5 2 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WorkSpace\\CODE\\Python\\Thuc hanh 1\\DienTichTamGiac.py","group":"local","local":true}

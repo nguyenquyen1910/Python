@@ -1,0 +1,1 @@
+{"name":"Local: PY02008-KhoangCachNT","url":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY02008-KhoangCachNT.py","tests":[{"id":1725607470608,"input":"5 4","output":"4 6 9 14 21 32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY02008-KhoangCachNT.py","group":"local","local":true}
