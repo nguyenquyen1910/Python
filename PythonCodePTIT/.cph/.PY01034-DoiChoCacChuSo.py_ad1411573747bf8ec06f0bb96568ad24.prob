@@ -1,0 +1,1 @@
+{"name":"Local: PY01034-DoiChoCacChuSo","url":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY01034-DoiChoCacChuSo.py","tests":[{"id":1735613251427,"input":"4\n354\n999\n101\n11101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PY01034-DoiChoCacChuSo.py","group":"local","local":true}

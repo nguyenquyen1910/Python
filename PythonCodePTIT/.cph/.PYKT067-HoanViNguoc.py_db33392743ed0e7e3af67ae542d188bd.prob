@@ -1,0 +1,1 @@
+{"name":"Local: PYKT067-HoanViNguoc","url":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PYKT067-HoanViNguoc.py","tests":[{"id":1735570496367,"input":"2\n2\n3","output":"2\n21 12 \n6\n321 312 231 213 132 123 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WorkSpace\\CODE\\Python\\PythonCodePTIT\\PYKT067-HoanViNguoc.py","group":"local","local":true}
